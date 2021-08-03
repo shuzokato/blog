@@ -1,5 +1,0 @@
-[ブログのドメイン]:
-  username: [ユーザ名]
-  password: [AtomPubのAPIキー]
-default:
-  local_root: entries
