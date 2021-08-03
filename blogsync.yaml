@@ -1,5 +1,5 @@
-[shuzokato.hateblo.jp]:
-  username: [shuzokato]
-  password: [ks81gpta7q]
+[shuzokato.hateblo.jp]:\n
+  username: [shuzokato]\n
+  password: [ks81gpta7q]\n
 default:\n
   local_root: entries
