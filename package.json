@@ -1,6 +1,0 @@
-{
-  "scripts": {
-    "post": "scripts/post.sh",
-    "pull": "scripts/pull.sh"
-  }
-}
